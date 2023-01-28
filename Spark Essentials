@@ -1,0 +1,14 @@
+# Data Engineering Functions  
+  1. Data Aquisition
+  2. Data Tranportation
+  3. Data Storage
+  4. Data processing
+  5. Data serving
+  
+# Spark Architecture
+
+  1. Driver Node - master node
+  2. executor Node - slaves
+  
+
+  
